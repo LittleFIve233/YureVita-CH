@@ -1,7 +1,7 @@
 # YureVita-CHS
 YumeustsutsuRe CH Patches
 
-![img](https://img.moegirl.org.cn/common/thumb/7/79/Yumeutsutsu_ReMaster.png/560px-Yumeutsutsu_ReMaster.png)
+![img](https://yuremaster.kogado.com/wp-content/themes/yurimas/img/logo2.png)
 
 本项目是为PSVita上的《梦现Re:Master》与《梦现Re:After》移植的简中汉化补丁，汉化文本均来自Nintendo Switch
 
