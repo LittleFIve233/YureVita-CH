@@ -1,19 +1,27 @@
-# YureVita-CHS
-YumeustsutsuRe CH Patches
+# YuReVita-CHS
+Yumeustsutsu Re:Mas/Af CH Patches
+
+本项目为**PSVita**平台的 **《梦现Re:Master》** 与 **《梦现Re:After》** 的汉化补丁，
 
 ![img](https://yuremaster.kogado.com/wp-content/themes/yurimas/img/logo2.png)
 
-本项目是为PSVita上的《梦现Re:Master》与《梦现Re:After》移植的汉化补丁，汉化文本均来自Nintendo Switch
+![img](http://yuremaster.kogado.com/cn/yureafter/common/img/logo.svg)
 
-项目&美工&移植：LittleFIve
 ## 本项目已于2023/11/14在PSVita破解吧正式发布！本仓库为归档
-发布链接：
 
-简中 [https://tieba.baidu.com/p/8719217246](https://tieba.baidu.com/p/8719217246)
+> 汉化名单：
+> 
+> 项目&美工&移植：LittleFIve
+>
+> 文本：来自NintendoSwitch的官方中文
 
-繁中Mas [https://tieba.baidu.com/p/8475333282](https://tieba.baidu.com/p/8475333282)
-
-繁中AF [https://tieba.baidu.com/p/8477146705](https://tieba.baidu.com/p/8477146705)
+> 发布链接：
+>
+> 简中 [https://tieba.baidu.com/p/8719217246](https://tieba.baidu.com/p/8719217246)
+>
+> 繁中Mas [https://tieba.baidu.com/p/8475333282](https://tieba.baidu.com/p/8475333282)
+>
+> 繁中AF [https://tieba.baidu.com/p/8477146705](https://tieba.baidu.com/p/8477146705)
 # Build (Windows)
 0.提取Nintendo Switch版的视频并压缩至960x544分辨率
 
