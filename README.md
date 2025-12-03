@@ -31,11 +31,6 @@ Yumeustsutsu Re:Mas/Af CH Patches
 
 3.执行``make.bat``脚本，将会生成res_jp.psarc文件
 # Install Guide
-> （仅简体中文补丁需要安装插件更改字库）
->
->1.下载[sa0tour0](https://github.com/SKGleba/VitaTools/blob/main/sa0tour0/build/sa0tour0.skprx)并安装该插件
->
->2.使用vitashell将``sa0``中的所有文件放入``ur0:data``文件夹
 
 1.首先安装好[repatch](https://github.com/SonicMastr/rePatch-reLoaded/releases/tag/v2.0)插件
 
